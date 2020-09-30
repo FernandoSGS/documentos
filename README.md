@@ -38,7 +38,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ### PROTOTIPAÇÃO
 
 
-
 ![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/Web%201920%20%E2%80%93%201.png)
 
 
@@ -55,7 +54,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
-
 
 | Nome        |  Função |  Perfil Git |   |   
 |---|---|---|---|
