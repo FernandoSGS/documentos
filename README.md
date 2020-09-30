@@ -39,4 +39,4 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 
 
-![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/projetoIntegrador/blob/master/Web%201920%20%E2%80%93%201.png)
+![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/Web%201920%20%E2%80%93%201.png)
