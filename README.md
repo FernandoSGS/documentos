@@ -11,7 +11,7 @@ Desenvolver um sistema de chat para a empresa ANOVA com o intuito de facilitar a
 Cada usuário está inserido em um grupo específico com suas permissões necessárias, sendo eles:
 
 
-* Aluno
+* Aluno 
 * Diretor
 * Atendente
 * Instrutor
@@ -38,5 +38,34 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ### PROTOTIPAÇÃO
 
 
+![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/Web%201920%20%E2%80%93%201.png)
 
-![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/projetoIntegrador/blob/master/Web%201920%20%E2%80%93%201.png)
+
+### Calendário Projeto
+
+
+
+| nº        |  Data Inicial |  Data Final |   |   
+|---|---|---|---|
+|Sprint 1   | 07/09/2020 | 20/09/2020     |   |   
+|Sprint 2   | 21/09/2020 | 04/10/2020     |   |   
+|Sprint 3   | 05/10/2020 | 18/10/2020     |   |   
+|Sprint 4   | 19/10/2020 | 01/11/2020     |   |  
+|Sprint 5   | 02/11/2020 | 15/11/2020     |   |   
+|Sprint 6   | 16/11/2020 | 29/11/2020     |   |  
+
+
+### Lista dos Profissionais para o desenvolvimento do projeto
+
+
+
+| Nome        |  Função |  Perfil Git |   |   
+|---|---|---|---|
+|Gabriel Menacho  | Scrum Master| https://github.com/menachosjc    |   |   
+|Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
+|Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
+|Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
+|Cauan Almeida | Desenvolvedor | https://github.com/     |   |   
+|Toni William  | Desenvolvedor | https://github.com/    |   |  
+|Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
+
