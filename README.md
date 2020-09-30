@@ -52,3 +52,17 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Sprint 4   | 19/10/2020 | 01/11/2020     |   |  
 |Sprint 5   | 02/11/2020 | 15/11/2020     |   |   
 |Sprint 6   | 16/11/2020 | 29/11/2020     |   |  
+
+
+### Lista dos Profissionais para o desenvolvimento do projeto
+
+
+| Nome        |  Função |  Perfil Git |   |   
+|---|---|---|---|
+|Gabriel Menacho  | Scrum Master| https://github.com/menachosjc    |   |   
+|Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
+|Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
+|Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
+|Cauan Almeida | Desenvolvedor | https://github.com/     |   |   
+|Toni William  | Desenvolvedor | https://github.com/    |   |  
+|Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
