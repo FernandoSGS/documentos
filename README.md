@@ -11,7 +11,7 @@ Desenvolver um sistema de chat para a empresa ANOVA com o intuito de facilitar a
 Cada usuário está inserido em um grupo específico com suas permissões necessárias, sendo eles:
 
 
-* Aluno [user-icon](https://www.pngmart.com/files/10/User-Account-Person-PNG-File.png)
+* Aluno 
 * Diretor
 * Atendente
 * Instrutor
