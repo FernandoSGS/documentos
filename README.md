@@ -43,6 +43,8 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 ### Calendário Projeto
 
+
+
 | nº        |  Data Inicial |  Data Final |   |   
 |---|---|---|---|
 |Sprint 1   | 07/09/2020 | 20/09/2020     |   |   
@@ -54,6 +56,8 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
+
+
 
 | Nome        |  Função |  Perfil Git |   |   
 |---|---|---|---|
