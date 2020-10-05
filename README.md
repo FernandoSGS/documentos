@@ -55,6 +55,11 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Sprint 6   | 16/11/2020 | 29/11/2020     |   |  
 
 
+### Comparação Burndown
+
+
+
+
 ### Lista dos Profissionais para o desenvolvimento do projeto
 
 
