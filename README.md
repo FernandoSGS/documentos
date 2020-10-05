@@ -41,6 +41,7 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/Web%201920%20%E2%80%93%201.png)
 
 
+
 ### Calendário Projeto
 
 
@@ -55,6 +56,13 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Sprint 6   | 16/11/2020 | 29/11/2020     |   |  
 
 
+### Comparação Burndown entre Sprints
+
+
+
+[Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/blob/sprint-2/sprint1/entregas/burndown_v1.0.png?raw=true)
+[Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/sprint-2/sprint1/entregas/burndown_v1.0.png?raw=true)
+
 ### Lista dos Profissionais para o desenvolvimento do projeto
 
 
@@ -65,6 +73,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
 |Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
 |Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
-|Cauan Almeida | Desenvolvedor | https://github.com/     |   |   
-|Toni William  | Desenvolvedor | http://github.com/toniprado    |   |  
+|Cauan Almeida | Desenvolvedor | https://github.com/Tsundek     |   |   
+|Toni William  | Desenvolvedor | https://github.com/toniprado    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
