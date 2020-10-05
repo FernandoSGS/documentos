@@ -76,4 +76,3 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Cauan Almeida | Desenvolvedor | https://github.com/Tsundek     |   |   
 |Toni William  | Desenvolvedor | https://github.com/toniprado    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
-
