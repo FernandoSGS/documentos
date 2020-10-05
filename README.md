@@ -57,7 +57,9 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 ### Comparação Burndown
 
+#### Burndown Sprint 1
 
+[](https://github.com/FatecSJC-PI-Time10/documentos/blob/sprint-2/sprint1/entregas/burndown_v1.0.png)
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
