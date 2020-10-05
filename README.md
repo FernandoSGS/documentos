@@ -70,7 +70,7 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
 |Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
 |Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
-|Cauan Almeida | Desenvolvedor | https://github.com/     |   |   
+|Cauan Almeida | Desenvolvedor | https://github.com/Tsundek     |   |   
 |Toni William  | Desenvolvedor | https://github.com/    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
 
