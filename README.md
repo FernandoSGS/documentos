@@ -59,12 +59,12 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ### Comparação Burndown entre Sprints
 
 
-#Burndown Sprint 1
+Burndown Sprint 1
 
 ![Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint1/entregas/burndown_v1.0.png)
 
 
-#Burndown Sprint 2
+Burndown Sprint 2
 
 ![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint2/burndown_sprint-2.png)
 
