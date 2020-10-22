@@ -69,6 +69,11 @@ Burndown Sprint 2
 ![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint2/burndown_sprint-2.png)
 
 
+Burndown Sprint 3
+
+![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint2/burndown_sprint-2.png)
+
+
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
