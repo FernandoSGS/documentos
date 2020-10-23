@@ -64,17 +64,17 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 Burndown Sprint 1
 
-![Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/burndown/sprint_1.png)
+![Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint1.png)
 
 
 Burndown Sprint 2
 
-![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/burndown/sprint_2.png)
+![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint2.pngg)
 
 
 Burndown Sprint 3
 
-![Burndown sprint-3](https://github.com/FatecSJC-PI-Time10/documentos/burndown/sprint_3.png)
+![Burndown sprint-3](https://github.com/FatecSJC-PI-Time10/documentos/burndowns/sprint3.png)
 
 
 
