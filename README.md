@@ -38,7 +38,8 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 ### PROTOTIPAÇÃO
 
 
-![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/Web%201920%20%E2%80%93%201.png)
+![Protótipo 1.0](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint1/entregas/prototipo_v1.0.png)
+
 
 
 ### Calendário Projeto
@@ -47,12 +48,32 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 
 | nº        |  Data Inicial |  Data Final |   |   
 |---|---|---|---|
-|Sprint 1   | 07/09/2020 | 20/09/2020     |   |   
-|Sprint 2   | 21/09/2020 | 04/10/2020     |   |   
-|Sprint 3   | 05/10/2020 | 18/10/2020     |   |   
+|Sprint 1   | 07/09/2020 | 20/09/2020     | x  |   
+|Sprint 2   | 21/09/2020 | 04/10/2020     | x  |   
+|Sprint 3   | 05/10/2020 | 18/10/2020     | x  |   
 |Sprint 4   | 19/10/2020 | 01/11/2020     |   |  
 |Sprint 5   | 02/11/2020 | 15/11/2020     |   |   
 |Sprint 6   | 16/11/2020 | 29/11/2020     |   |  
+
+
+### Comparação Burndown entre Sprints
+
+
+Burndown Sprint 1
+
+![Burndown sprint-1](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint1/entregas/burndown_v1.0.png)
+
+
+Burndown Sprint 2
+
+![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint2/burndown_sprint-2.png)
+
+
+Burndown Sprint 3
+
+![Burndown sprint-2](https://github.com/FatecSJC-PI-Time10/documentos/blob/master/sprint2/burndown_sprint-2.png)
+
+
 
 
 ### Lista dos Profissionais para o desenvolvimento do projeto
@@ -65,6 +86,6 @@ Cada usuário está inserido em um grupo específico com suas permissões necess
 |Celso Reis  | Product Owner | https://github.com/JoeReis1983    |   |   
 |Paulo Keller  | Desenvolvedor| https://github.com/PauloKeller    |   |   
 |Fernando Soares  | Desenvolvedor | https://github.com/FernandoSGS     |   |  
-|Cauan Almeida | Desenvolvedor | https://github.com/     |   |   
-|Toni William  | Desenvolvedor | http://github.com/toniprado    |   |  
+|Cauan Almeida | Desenvolvedor | https://github.com/Tsundek     |   |   
+|Toni William  | Desenvolvedor | https://github.com/toniprado    |   |  
 |Gustavo Nascimento  | Desenvolvedor | https://github.com/gustavohn2017     |   |  
